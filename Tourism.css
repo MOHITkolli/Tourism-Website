@@ -1,0 +1,87 @@
+
+
+.head{
+  color:#0d68b8;
+  font-family:"Roboto";
+font-size:50px;
+font-style:italic;
+font-weight:bold;
+text-decoration:underline;
+
+}
+
+.para {
+ color:grey;
+font-size:22px;
+}
+
+.bg{
+  text-align:center;
+  background-image:url("https://media.cnn.com/api/v1/images/stellar/prod/230224150645-01-best-beaches-world-tripadvisor-2023-card.jpg?c=original");
+  background-size:cover;
+  height:100vh;
+}
+
+.card1{
+background-color:white;
+text-align:center;
+border-top-right-radius:29px;
+border-top-left-radius:29px;
+padding:24px;
+}
+
+.butt{
+height:40px;
+width:150px;
+color:white;
+background-color:#60c7e0;
+border-radius:12px;
+border-width:0px;
+}
+
+.head1{
+color:white;
+font-size:45px;
+font-weight:bold;
+padding:30px;
+}
+
+.bgm{
+background-image:url("https://pawtaw.com/wp-content/uploads/2016/12/background-image-example-3.jpeg");
+background-size:cover;
+height:100vh;
+}
+
+.card2{
+background-color:white;
+border-radius:15px;
+margin:20px;
+padding:22px;
+}
+
+.head2{
+color:#27487a;
+font-size:30px;
+font-weight:bold;
+}
+
+.img1{
+height:210px;
+width:225px;
+padding:10px;
+}
+
+.card3{
+background-color:white;
+border-radius:10px;
+margin:20px;
+}
+
+.car{
+height:440px;
+width:500px;
+}
+
+.padd{
+padding:20px;
+}
