@@ -25,16 +25,29 @@ font-size:22px;
 .card1{
 background-color:white;
 text-align:center;
-border-top-right-radius:29px;
-border-top-left-radius:29px;
+border-top-right-radius:39px;
+border-top-left-radius:39px;
 padding:24px;
+height:250px;
 }
 
 .butt{
-height:40px;
-width:150px;
+height:60px;
+width:160px;
+font-size:22px;
 color:white;
 background-color:#60c7e0;
+border-radius:12px;
+border-width:0px;
+}
+
+.butt1{
+height:60px;
+width:160px;
+font-size:20px;
+margin:25px;
+color:black;
+background-color:#f5f6f7;
 border-radius:12px;
 border-width:0px;
 }
@@ -49,7 +62,7 @@ padding:30px;
 .bgm{
 background-image:url("https://pawtaw.com/wp-content/uploads/2016/12/background-image-example-3.jpeg");
 background-size:cover;
-height:100vh;
+height:115vh;
 }
 
 .card2{
@@ -78,7 +91,8 @@ margin:20px;
 }
 
 .car{
-height:440px;
+
+height:610px;
 width:500px;
 }
 
