@@ -56,13 +56,13 @@ border-width:0px;
 color:white;
 font-size:45px;
 font-weight:bold;
-padding:30px;
+padding:20px;
 }
 
 .bgm{
 background-image:url("https://pawtaw.com/wp-content/uploads/2016/12/background-image-example-3.jpeg");
 background-size:cover;
-height:115vh;
+height:132vh;
 }
 
 .card2{
@@ -92,7 +92,7 @@ margin:20px;
 
 .car{
 
-height:610px;
+height:590px;
 width:500px;
 }
 
